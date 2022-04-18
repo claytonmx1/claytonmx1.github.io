@@ -3,6 +3,6 @@
 ### Code Review
 
 #### Code Review Links
-[Code Review Artifact One]()
-[Code Review Artifact Two]()
-[Code Review Artifact Three]()
+- [Code Review Artifact One]()
+- [Code Review Artifact Two]()
+- [Code Review Artifact Three]()
